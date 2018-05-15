@@ -2,6 +2,10 @@
 
 Project ini digunakan untuk praktek mata kuliah PBO.
 
+Nama : Muhammad Ari
+
+NPM : 2015804340
+
 ## Instalasi
 
 - import file `db.sql` ke mariadb,
